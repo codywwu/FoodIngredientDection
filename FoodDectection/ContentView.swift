@@ -8,7 +8,7 @@ struct ContentView: View {
             Image(systemName: "globe")
                 .imageScale(.large)
                 .foregroundStyle(.tint)
-            Text("Hello, world!")
+            Text("Welcome to Food ingredient")
             
             Button(action: {
                 isPresentingCamera = true
